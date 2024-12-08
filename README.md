@@ -1,4 +1,4 @@
-# 💫 Hello World!, I'm Subhajit, a Indian Web Developer 👋🏼:
+# 💫 Hello World!, I'm Subhajit, an Indian Developer 👋🏼:
 
 I'm currently working as a Developer in a MNC since 2022.<br>
 Improving my Technical Knowledge and Skills. <br>
