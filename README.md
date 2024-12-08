@@ -1,6 +1,6 @@
 # 💫 Hello World!, I'm Subhajit, an Indian Developer 👋🏼:
 
-I'm currently working as a #Developer# since 2022.<br>
+I'm currently working as a Developer since 2022.<br>
 Improving my Technical Knowledge and Skills. <br>
 Started Learning FullStack Development . <br>
 
