@@ -1,32 +1,88 @@
-# 💫 Hello World!, I'm Subhajit | Developer 👋🏼:
-
-I'm currently working as a Developer since 2022.<br>
-Improving my Technical Knowledge and Skills. <br>
-Started Learning FullStack Development . <br>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajitch0wdhury) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://subhajitchowdhury.medium.com/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) <br/>![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Subhajit-Chowdhury&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Subhajit-Chowdhury&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit-Chowdhury&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Subhajit-Chowdhury&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Data+Engineer;ETL+%2F+ELT+Developer;Active+Learner" alt="Typing SVG" />
+</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Subhajit-Chowdhury&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 Hi, I'm Subhajit — Data Engineer & ETL Developer
+
+A Data Engineering professional with 2.6+ years of experience in building scalable **ETL/ELT pipelines**, transforming raw data into actionable insights using **cloud-native** and **on-premise tools**.
+
+🔧 I design, develop, test, and monitor robust data workflows across **batch and streaming architectures**.  
+📊 Delivered **150+ ETL pipeline mappings** using enterprise and cloud platforms.  
+🌍 Actively growing in **stream processing, orchestration, lakehouse architectures**, and **data analytics**.
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajitch0wdhury)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://subhajitchowdhury.medium.com/)
+
+---
+
+## 🚀 Technical Proficiency
+
+### 🛠️ ETL/ELT & Data Pipeline Tools
+- **Informatica IICS & PowerCenter**  
+- **AWS Glue**, **AWS S3**, **AWS Athena**  
+- **Apache Airflow** (workflow orchestration)  
+- **Apache Kafka** (real-time data streaming)  
+- **Oracle SQL**, **MySQL**, **PostgreSQL**  
+- **MongoDB**, **AWS DocumentDB**  
+- **Snowflake**
+
+### 📊 Business Intelligence & Analytics
+- **Power BI**  
+- **Amazon QuickSight**
+
+### ☁️ Cloud Platforms
+- **AWS** (Glue, S3, Athena, IAM, Lambda, CloudWatch)  
+- **Azure** (Basic knowledge)  
+- **Google Cloud Platform (GCP)** (Basic knowledge)
+
+### 🧩 Scheduling & Monitoring Tools
+- **IBM IWS/TWS**, **DWC**, **Netcool**  
+- **ServiceNow**, **Jira**, **Confluence**  
+- **PuTTY**, **Unix-based job monitoring & scheduling**
+
+---
+
+## 🧠 Areas of Focus
+
+- Cloud-Native ETL & ELT Design  
+- Scalable Data Pipelines (Batch + Streaming)  
+- Data Lake & Lakehouse Architecture  
+- Job Orchestration & Automation  
+- Data Quality, Lineage & Monitoring  
+- Analytical Reporting & Visualization  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhajit-Chowdhury&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit-Chowdhury&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit-Chowdhury&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Subhajit-Chowdhury&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🐍 GitHub Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Subhajit-Chowdhury/Subhajit-Chowdhury/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Subhajit-Chowdhury/Subhajit-Chowdhury/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/Subhajit-Chowdhury/Subhajit-Chowdhury/blob/output/github-snake.svg" />
 </picture>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Subhajit-Chowdhury&icon=0&color=0)](https://visitcount.itsvg.in)
