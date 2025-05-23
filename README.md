@@ -16,8 +16,7 @@ A Data Engineering professional with 2.6+ years of experience in building scalab
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajitch0wdhury)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://subhajitchowdhury.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajitch0wdhury)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://subhajitchowdhury.medium.com/)
 
 ---
 
