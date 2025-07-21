@@ -6,7 +6,7 @@
 
 ## 👋 Hi, I'm Subhajit — Data Engineer & ETL Developer
 
-A Data Engineering professional with ~3 years of experience in building scalable **ETL/ELT pipelines**, transforming raw data into actionable insights using **cloud-native** and **on-premise tools**.
+A Curious Data Engineering professional with 3+ years of experience in building scalable **ETL/ELT pipelines**, transforming raw data into actionable insights using **cloud-native** and **on-premise tools**.
 
 🔧 I design, develop, test, and monitor robust data workflows across **batch and streaming architectures**.  
 📊 Delivered **150+ ETL pipeline mappings** using enterprise and cloud platforms.  
