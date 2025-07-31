@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 Hi, I'm Subhajit — Data Engineer & ETL Developer
+## 👋 Hi, I'm Subhajit — Data Engineer & ETL|ELT Developer
 
 Curious Data Engineering professional with 3+ years of experience in building scalable **ETL/ELT pipelines**, transforming raw data into actionable insights using **cloud-native** and **on-premise tools**.
 
