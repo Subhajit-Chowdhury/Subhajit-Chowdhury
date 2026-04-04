@@ -48,7 +48,7 @@ Cloud-focused Data Engineer with over 3.9 years of experience in designing, buil
 ## 🧠 Areas of Focus
 
 - Cloud-Native ETL & ELT Design (AWS & Snowflake)
-- Scalable Data Pipelines (Batch + Steaming / Event-Driven)  
+- Scalable Data Pipelines (Batch + Streaming / Event-Driven)  
 - Data Lake, Data Warehousing & Medallion Architecture  
 - Incremental Loads & Change Data Capture (CDC) 
 - Job Orchestration, Automation & CI/CD
@@ -70,7 +70,7 @@ Cloud-focused Data Engineer with over 3.9 years of experience in designing, buil
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subhajit-Chowdhury&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://profile-trophy.vercel.app/?username=Subhajit-Chowdhury&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Subhajit-Chowdhury Trophies" />
 </div>
 
 ---
@@ -88,7 +88,5 @@ Cloud-focused Data Engineer with over 3.9 years of experience in designing, buil
 ---
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Subhajit-Chowdhury&icon=0&color=0" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Subhajit-Chowdhury&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
