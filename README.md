@@ -59,10 +59,10 @@ Cloud-focused Data Engineer with over 3.9 years of experience in designing, buil
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhajit-Chowdhury&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Subhajit-Chowdhury&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit-Chowdhury&theme=tokyonight&hide_border=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit-Chowdhury&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subhajit-Chowdhury&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 ---
