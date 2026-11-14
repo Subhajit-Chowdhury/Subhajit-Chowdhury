@@ -1,16 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=535&lines=Cloud+Data+Engineer;AWS+Data+Engineering;Snowflake+%26+Data+Lakes;Medallion+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=535&lines=Data+Engineer;Data & AI;Snowflake+%26+Data+Lakes;Medallion+Architecture" alt="Typing SVG" />
 </h1>
 
 ---
 
-## 👋 Hi, I'm Subhajit — Cloud Data Engineer
+## 👋 Hi, I'm Subhajit — Data Engineer
 
-Cloud-focused Data Engineer with over 3.9 years of experience in designing, building, and maintaining production-grade **ETL/ELT data pipelines** on AWS, spanning batch processing and near real-time event-driven ingestion.
+Cloud-focused Data Engineer with over 4 years of experience in designing, building, and maintaining production-grade **ETL/ELT data pipelines** on AWS, spanning batch processing and near real-time event-driven ingestion.
 
 🔧 I build scalable data lake architectures and transform raw ingestion into analytics-ready datasets using **Medallion Architecture (Bronze/Silver/Gold)**.  
-📊 Delivered high-scale pipelines using **AWS Glue (PySpark), Redshift, Athena, and Snowflake**.  
-🌍 Actively growing in **Data Lakehouse architectures (Iceberg/Delta Lake), stream processing, and multi-cloud platforms**.
+📊 Delivered Reliable, Scalable, Cost-Optimized pipelines using **AWS Glue (PySpark), S3, Lambda, DynamoDB, Redshift, Athena, and QuickSight**.  
+🌍 Actively growing in **Data Lakehouse architectures (Iceberg/Delta Lake), stream processing, multi-cloud platforms, RAG Architecture, LLM/AI Integrations**.
 
 ---
 
