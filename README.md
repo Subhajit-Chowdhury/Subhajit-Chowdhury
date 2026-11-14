@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=535&lines=Data+Engineer;AWS;Snowflake+%26+Data+Lakes;Medallion+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=535&lines=Data+Engineer;Data+%26+AI;Data Warehouse+%26+Data+Lakes+Data+Lakehouse;Medallion+Architecture;RAG+Architecture;" alt="Typing SVG" />
 </h1>
 
 ---
